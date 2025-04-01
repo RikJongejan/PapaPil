@@ -19,5 +19,4 @@ HTML5 & CSS3 – Frontend design
 
 JavaScript – Interactiviteit
 
-Bootstrap – Responsief ontwerp
 
