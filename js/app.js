@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const products = [
         {"image": ".//Img/Vitamine.png", "name": "Vitamin C Complex", "desc": "High strength with zinc", "rating": 4, "reviews": 124, "price": "$19.99"},
         {"image": ".//Img/pijnstiller.png", "name": "Pain Relief Extra", "desc": "Fast-acting tablets", "rating": 5, "reviews": 89, "price": "$12.99"},
-        {"image": ".//Img/allergy.png", "name": "Hydrating Cream", "desc": "24-hour moisture protection", "rating": 4, "reviews": 56, "price": "$24.99"},
+        {"image": ".//Img/cream.png", "name": "Hydrating Cream", "desc": "24-hour moisture protection", "rating": 4, "reviews": 56, "price": "$24.99"},
         {"image": ".//Img/allergy.png", "name": "Allergy Spray", "desc": "Fast-acting nasal spray", "rating": 4, "reviews": 78, "price": "$15.99"}
     ];
     
